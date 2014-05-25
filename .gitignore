@@ -1,0 +1,6 @@
+logs/*
+node_modules/
+public/bower_components/
+public/css
+public/js
+.DS_Store
