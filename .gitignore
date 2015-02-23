@@ -1,6 +1,6 @@
 logs/*
 node_modules/
-public/bower_components/
-public/css
-public/js
+app/vendor/
+public/*
 .DS_Store
+npm-debug.log
